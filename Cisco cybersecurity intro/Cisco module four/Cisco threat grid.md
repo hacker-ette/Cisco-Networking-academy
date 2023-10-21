@@ -1,0 +1,4 @@
+ 1. Secure Operations center team: The Threat Grid allows the Cisco Secure Operations Center team to gather more accurate, actionable data.
+ 2. Incidence response team: The Incidence Response team therefore has access to forensically sound information from which it can more quickly analyze and understand suspicious behaviors.
+ 3. Threat intelligence team:Using this analysis, the Threat Intelligence team can proactively improve the organization’s security infrastructure.
+ 4. Security Infrastructure Engineering team: Overall, the Security Infrastructure Engineering team is able to consume and act on threat information faster, often in an automated way.
